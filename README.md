@@ -1,2 +1,7 @@
 # PiSwap
 We Swap Pi
+Piswap.com is to be an application built by and for the Pi Network Community of 7 million active members currently mining the Pi Network token on their mobile device. Final phase of mining will occur when the community reaches 10 million registered users and the mining rate halves to zero. The idea is to create an open source and decentralized destination for the pi network community to safely swap the Pi network currency "Pi" for anything of value. Amazon.com began by selling books. In short, Piswap.com will begin by swapping Pi for other native cryptocurrencies and will grow into a decentralized and open source "amazon" for 10 million Pi-oneers. Piswap.com, We Swap Pi.
+
+Development will segmented into 4 major phases and prioritized by community consensus with lazer focus on providing opportunities for the betterment of the community. Phase 1, Swapping Pi Newtork tokens for other for other cryptocurrencies. Piswap.com's first step is to build the "Piswap KYC Free token Swapper", a simple, user friendly application that will integrate with the Pi Network wallet sdk and allow users to swap Pi for ERC-20 tokens of equitable value without any single transaction exceeding the KYC Free limit of $10,000 USD. Critical to the success of this Phase one application is to create the new member registration form so that when completed by a new member he/she meets level 1 KYC. This can be very simply achieved by allowing users to register with their Google, Facebook or twitter account.
+
+Phase Two Description TBA
